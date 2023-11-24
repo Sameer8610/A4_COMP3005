@@ -61,10 +61,7 @@ def deleteStudent(student_id):
 
 #main function with function calls
 def main():
-    addStudent('iid', 'Wonderland', 'uu@examplee.com', '2023-07-03')
     getAllStudents()
-    updateStudentEmail(1, 'newemail@example.com')
-    deleteStudent(2)
 
 #call main
 if __name__ == "__main__":
