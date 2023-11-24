@@ -3,6 +3,8 @@ Sameer Ahmadzai
 Student Number: 101227616
 
 Youtube Video:
+https://youtu.be/OkPqwwCqBZM
+
 
 
 Setup Instructions for database:
