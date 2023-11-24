@@ -62,7 +62,12 @@ def deleteStudent(student_id):
 #main function with function calls
 def main():
     getAllStudents()
-
+    #addStudent('Sameer', 'Ahmadzai', 'sameer.ahmadzai@gmail.com', '2003-12-11')
+    #addStudent('Frank', 'Smith', 'sameer.ahmadzai@gmail.com', '2003-10-11')
+    #addStudent('Jeff', 'Hardy', 'jeff.hardy@gmail.com', '2013-10-11')
+    #updateStudentEmail(4, "ahmadzai.sameer@gmail.com")
+    #deleteStudent(4)
+    
 #call main
 if __name__ == "__main__":
     main()
